@@ -5,4 +5,4 @@ A [Pen](https://codepen.io/imagecomic/pen/kPwYXB) by [imagecomic](https://codepe
 
 [License](https://codepen.io/license/pen/kPwYXB).
 
-[link](https://yxmauw.github.io.)
+Click [here](https://yxmauw.github.io.) to view
