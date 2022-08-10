@@ -1,4 +1,4 @@
 ### Mandatory repository to set up [GitHub Pages](https://pages.github.com/)
 
-![](http://img.shields.io/badge/github/license/yxmauw/yxmauw.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
