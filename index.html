@@ -21,10 +21,15 @@
             generated_text = output["text"]
             return generated_text
         
-        input_text = gr.Textbox(lines=5, label="Input Text")
-        output_text = gr.Textbox(lines=5, label="Generated Text")
+        input_text = gr.Textbox(lines=5, label="Question")
+        output_text = gr.Textbox(lines=5, label="Answer")
         
-        gr.Interface(fn=generate_text, inputs=input_text, outputs=output_text, title="GPT4All_experiment").launch()
+        gr.Interface(fn=generate_text, 
+                     inputs=input_text, 
+                     outputs=output_text, 
+                     theme = gr.themes.Soft(),
+                     analytics_enabled=True,
+                     title="GPT4All_experiment").launch()
         
     </gradio-lite>
     
