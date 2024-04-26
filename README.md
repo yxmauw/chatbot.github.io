@@ -3,4 +3,4 @@
 ### Experimental github page
 Current theme: gpt4all 
 
-[Demo](https://yxmauw.github.io/pages/)
+[Demo](https://yxmauw.github.io/gpt4all-chatui/)
